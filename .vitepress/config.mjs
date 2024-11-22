@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "mtm6407-static-site-RongXinHu",
   title: "MTM6407",
   description: "Web Dev Iv",
   themeConfig: {
