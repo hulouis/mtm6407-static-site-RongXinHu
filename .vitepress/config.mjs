@@ -6,6 +6,10 @@ export default defineConfig({
   description: "Web Dev Iv",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    themeConfig: {
+      appearance: true, // 启用主题切换
+    },
+
     nav: [
       { text: "Web Development", link: "/portfolio/web-development" },
       { text: "Web Design", link: "/portfolio/web-design" },
