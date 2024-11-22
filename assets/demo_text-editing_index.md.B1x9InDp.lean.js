@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.KXByU-XQ.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"demo/text-editing/index.md","filePath":"demo/text-editing/index.md"}'),a={name:"demo/text-editing/index.md"};function d(i,o,r,s,c,m){return n(),t("div")}const x=e(a,[["render",d]]);export{_ as __pageData,x as default};
